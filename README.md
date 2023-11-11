@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello there
+
+- Linux and open source projects are pretty awesome.
+- Naming things is not awesome.
+- I love functional languages like APL, J, BQN and Haskell.
+- I hate naming things.
+- Check out my *super _radical_ cool-beans ~~awesome~~ sauce* projects belowe ↓
 
 <!--
 **Sunglas/Sunglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
